@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Wilfredo Armando Ac Reyes</h1>
-<h3 align="center">Soy una estudiante de ingeniería en sistemas de información y ciencias de la computación, apasionada por la tecnología y con experiencia en el desarrollo de plataformas de escritorio utilizando los lenguajes de programación C# y Java. También tengo conocimientos en bases de datos como SQL Server, Oracle y MySQL. Me gusta mantenerme al tanto de las últimas tendencias en tecnología y siempre estoy buscando oportunidades para seguir aprendiendo y creciendo profesionalmente</h3>
+<h3 align="center">Soy una estudiante de ingeniería en sistemas de información y ciencias de la computación, apasionado por la tecnología y con experiencia en el desarrollo de plataformas de escritorio utilizando los lenguajes de programación C# y Java. También tengo conocimientos en bases de datos como SQL Server, Oracle y MySQL. Me gusta mantenerme al tanto de las últimas tendencias en tecnología y siempre estoy buscando oportunidades para seguir aprendiendo y creciendo profesionalmente</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilfredoar22&label=Profile%20views&color=0e75b6&style=flat" alt="wilfredoar22" /> </p>
 
