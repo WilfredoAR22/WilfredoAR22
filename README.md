@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilfredoar22&label=Profile%20views&color=0e75b6&style=flat" alt="wilfredoar22" /> </p>
 
-<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=wilfredoar22" alt="wilfredoar22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilfredoar22" alt="wilfredoar22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/wilfredoac22" target="blank"><img src="https://img.shields.io/twitter/follow/wilfredoac22?logo=twitter&style=for-the-badge" alt="wilfredoac22" /></a> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo WEB**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/WilfredoAR22](https://github.com/WilfredoAR22)
+- 👨‍💻 Todos mis proyectos están disponibles en [Portafolio](https://github.com/WilfredoAR22)
 
 - 📫 Cómo contactarme **wilfredoacreyes@outlook.com**
 
-- 📄 Conoce mis experiencias [https://drive.google.com/file/d/1d-yMcXUCToHoncAUXOdyE9AVH7Zw-s5b/view?usp=share_link](https://drive.google.com/file/d/1d-yMcXUCToHoncAUXOdyE9AVH7Zw-s5b/view?usp=share_link)
+- 📄 Conoce mis experiencias [CV WilfredoAR22](https://drive.google.com/file/d/1d-yMcXUCToHoncAUXOdyE9AVH7Zw-s5b/view?usp=share_link)
 
 - ⚡ Dato curioso **Soy amigable**
 
