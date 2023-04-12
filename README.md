@@ -11,7 +11,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo WEB**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Portafolio](https://github.com/WilfredoAR22)
+- 👨‍💻 Todos mis proyectos están disponibles en [Portafolio Digital](https://github.com/WilfredoAR22?tab=repositories)
 
 - 📫 Cómo contactarme **wilfredoacreyes@outlook.com**
 
