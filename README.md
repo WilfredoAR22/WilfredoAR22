@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wilfredoac22" target="blank"><img src="https://img.shields.io/twitter/follow/wilfredoac22?logo=twitter&style=for-the-badge" alt="wilfredoac22" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Cveprow, Guatemala**
+- 🔭 Actualmente estoy trabajando en **Liceo Dr. Ricardo Bressani**
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo WEB**
 
