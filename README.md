@@ -15,8 +15,6 @@
 
 - 📫 Cómo contactarme **wilfredoacreyes@outlook.com**
 
-- 📄 Conoce mis experiencias [CV WilfredoAR22](https://drive.google.com/file/d/1d-yMcXUCToHoncAUXOdyE9AVH7Zw-s5b/view?usp=share_link)
-
 - ⚡ Dato curioso **Soy amigable**
 
 <h3 align="left">Connect with me:</h3>
