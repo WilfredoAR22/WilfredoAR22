@@ -9,8 +9,8 @@
 
 - 🔭 Actualmente estoy trabajando en **Liceo Dr. Ricardo Bressani**
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo WEB**
-
+- 🌱 Actualmente estoy aprendiendo: **Los fundamentos de Docker, aprendiendo a crear y administrar contenedores para la implementación eficiente de aplicaciones. El uso de imágenes, volúmenes y redes, así como las mejores prácticas para optimizar el rendimiento y la seguridad de los contenedores.**
+  
 - 👨‍💻 Todos mis proyectos están disponibles en [Portafolio Digital](https://github.com/WilfredoAR22?tab=repositories)
 
 - 📫 Cómo contactarme **wilfredoacreyes@outlook.com**
